@@ -9,6 +9,6 @@ I'm always open to new opportunities, so don't hesitate to get in touch!
 
 You can reach me via:
 - Email: lukaabramovic2@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/luka-abramovic){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/luka-abramovic)
 
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaabra)](https://github.com/anuraghazra/github-readme-stats)
