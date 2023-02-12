@@ -20,5 +20,4 @@ You can reach me via:
 - Email: lukaabramovic2@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luka-abramovic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaabra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaabra)](https://github.com/anuraghazra/github-readme-stats)
